@@ -1,8 +1,8 @@
 # Zoocontrol_Project
-Sistema de gestión de zoológico con POO en Python
+Sistema de gestión de zoológico en Python
 # Zoocontrol_Project
 
-Sistema de gestión de zoológico desarrollado en Python utilizando Programación Orientada a Objetos (POO).
+Sistema de gestión de zoológico desarrollado en Python 
 
 Este proyecto incluye clases para representar animales (mamíferos y reptiles), calcular sus raciones diarias de alimento y gestionar un inventario de alimentos.
 
@@ -16,7 +16,7 @@ Este proyecto incluye clases para representar animales (mamíferos y reptiles), 
 ## Tecnologías
 
 - Python 3.x
-- Programación Orientada a Objetos (POO)
+- Ingenieria de Requisitos
 
 ## Autor
 
