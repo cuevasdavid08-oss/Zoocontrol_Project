@@ -20,4 +20,4 @@ Este proyecto incluye clases para representar animales (mamíferos y reptiles), 
 
 ## Autor
 
-- Tu nombre o usuario aquí
+Yohanan David Cuevas Gomez 
